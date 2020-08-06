@@ -1,6 +1,10 @@
 # latihan_card_lanjutan_1
 
-A new Flutter project.
+Latihan membuat card lanjutan ini mendesain sebuah tampilan sebuah gambar yang lengkap dengan deskripsinya
+
+tampilan : 
+![Screenshot_2020-08-06-18-19-34-67_cfc0664e8daf7935a6ae9b95aa15920c 1](https://user-images.githubusercontent.com/60292040/89526222-9d1a1f80-d811-11ea-9881-3cf52f33acbc.png)
+
 
 ## Getting Started
 
